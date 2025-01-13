@@ -2,11 +2,10 @@
 
 ## I'm Software Developper,Linux Systems Administrator and Graphist
 
-
+<!-- - 🤔 I’m looking for help with ... -->
 <!--- 🔭 I’m currently working on ... -->
 - 🌱 I'm learning programmation🤣
 - 👯 I’m looking to collaborate on other content creators
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Laravel,Bootstrap,tailwind,Linux
 - 📫 How to reach me: guy.gemisse@gmail.com
 - ⚡ Fun fact: I love videos Game and mangas
